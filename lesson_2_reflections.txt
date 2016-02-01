@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Makes git aware that the folder could contain files to be tracked. If you do not initialize the repository, git 
+	has no way of knowing that the folder needs to be tracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area has changes yet to be committed while the working directory has the up to date version of all
+	files including those not being tracked for changes. The rep however holds just the history of files that are 
+	tracked.
+
+
+
