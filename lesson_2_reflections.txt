@@ -7,5 +7,9 @@ How is the staging area different from the working directory and the repository?
 	files including those not being tracked for changes. The rep however holds just the history of files that are 
 	tracked.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	By viewing the content of the staging area with git status before every commit.
+
+
 
 
